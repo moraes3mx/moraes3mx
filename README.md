@@ -34,6 +34,6 @@
 
   ### 🎓 Experiência & Educação:
   * 📚 **Engenharia de Software** | UCSal (Previsão: Nov/2028)
-  * 🧑‍🏫 **Monitor Acadêmico** | Arquitetura de Computadores e Raciocínio Lógico
+  * 🧑‍🏫 **Monitor Acadêmico**
   * 🛠️ **Ex-Auxiliar de Suporte de TI** | Manutenção de hardware e infraestrutura
 </div>
