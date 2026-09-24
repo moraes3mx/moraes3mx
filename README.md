@@ -2,11 +2,11 @@
   <h1>Olá! Eu sou o João Victor Muniz 👋</h1>
   
   <p>Estudante de Engenharia de Software (4º semestre) na UCSal e apaixonado por tecnologia. 🛠️</p>
-  <p>Atualmente à procura de estágio para aplicar conhecimentos práticos e contribuir com a equipa.</p>
+  <p>Atualmente em busca de estágio para aplicar conhecimentos práticos e contribuir com a equipe.</p>
   
   <br>
 
-  <a href="https://portfoliojoaomuniz.vercel.app/" target="_blank">🌐 Conhecer o meu Portefólio</a> | <a href="mailto:joao.melomuniz01@gmail.com">📧 Contactar</a>
+  <a href="https://portfoliojoaomuniz.vercel.app/" target="_blank">🌐 Conhecer meu Portfólio</a> | <a href="mailto:joao.melomuniz01@gmail.com">📧 Entrar em Contato</a>
 
   <br><br>
 
@@ -26,6 +26,6 @@
 
   ### 🎓 Experiência & Educação:
   * 📚 **Engenharia de Software** | UCSal (Previsão: Nov/2028)
-  * 🧑‍🏫 **Monitor Académico** | Arquitetura de Computadores e Raciocínio Lógico
+  * 🧑‍🏫 **Monitor Acadêmico** | Arquitetura de Computadores e Raciocínio Lógico
   * 🛠️ **Ex-Auxiliar de Suporte de TI** | Manutenção de hardware e infraestrutura
 </div>
