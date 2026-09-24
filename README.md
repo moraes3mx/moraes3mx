@@ -8,7 +8,6 @@
 
   <a href="https://portfoliojoaomuniz.vercel.app/" target="_blank">🌐 Meu Portfólio</a> | 
   <a href="https://wa.me/5571993794205" target="_blank">📱 Entrar em Contato</a> |
-  <a href="Curriculo.pdf" target="_blank">📄 Meu Currículo</a>
 
   <p>📧 Email: joao.melomuniz01@gmail.com</p>
 
