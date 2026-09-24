@@ -18,6 +18,8 @@
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
   <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
@@ -26,9 +28,12 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40" alt="sql" />
 
-  <br><br>
+  <p>🧠 IA (Engenharia de Prompts) | ⚙️ Lógica de Programação | 🔄 Metodologias Ágeis</p>
+
+  <br>
 
   ### 🎓 Experiência & Educação:
   * 📚 **Engenharia de Software** | UCSal (Previsão: Nov/2028)
+  * 🧑‍🏫 **Monitor Acadêmico** | Arquitetura de Computadores e Raciocínio Lógico
   * 🛠️ **Ex-Auxiliar de Suporte de TI** | Manutenção de hardware e infraestrutura
 </div>
