@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="center">
+  <h1>Olá! Eu sou o João Victor Muniz 👋</h1>
+  
+  <p>Estudante de Engenharia de Software (4º semestre) na UCSal e apaixonado por tecnologia. 🛠️</p>
+  <p>Atualmente à procura de estágio para aplicar conhecimentos práticos e contribuir com a equipa.</p>
+  
+  <br>
 
-<!--
-**moraes3mx/moraes3mx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <a href="https://portfoliojoaomuniz.vercel.app/" target="_blank">🌐 Conhecer o meu Portefólio</a> | <a href="mailto:joao.melomuniz01@gmail.com">📧 Contactar</a>
 
-Here are some ideas to get you started:
+  <br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### 💻 Tecnologias e Conhecimentos:
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40" alt="sql" />
+
+  <br><br>
+
+  ### 🎓 Experiência & Educação:
+  * 📚 **Engenharia de Software** | UCSal (Previsão: Nov/2028)
+  * 🧑‍🏫 **Monitor Académico** | Arquitetura de Computadores e Raciocínio Lógico
+  * 🛠️ **Ex-Auxiliar de Suporte de TI** | Manutenção de hardware e infraestrutura
+</div>
